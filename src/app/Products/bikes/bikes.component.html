@@ -1,0 +1,14 @@
+<div class="row" >    
+    <div class="col-sm-3" *ngFor="let bike of bikes">
+        <div class="card" style="width: 80%;">
+            <img class="card-img-top" src={{bike.imageUrl}} alt="Card image cap" width={{cardImageWidth}} height={{cardImageHeight}}>
+            <div class="card-body" style="background-color:{{bike.cardColor}}">
+                <h5 class="card-title">{{bike.name}}</h5>
+                <p class="card-text">Details about your favourite {{bike.name}}</p>
+                <a href="#" class="btn btn-secondary" style="background-color: black;">Go somewhere</a>
+            </div>
+        </div>
+        <br>
+    </div>
+    
+</div>

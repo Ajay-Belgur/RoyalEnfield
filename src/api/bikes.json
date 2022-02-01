@@ -1,0 +1,30 @@
+[
+      {
+        "name" : "Classic 350",
+        "price" : 250000,
+        "imageUrl": "assets/images/bikes/classic.jpg",
+        "availableColors" : ["Stealth Black", "Stormrider sand"],
+        "cardColor" : "#606c38"
+      },
+      {
+        "name" : "Meteor",
+        "price" : 240000,
+        "imageUrl": "assets/images/bikes/meteor.jpg",
+        "availableColors": ["Red", "Yellow"],
+        "cardColor": "#f9c74f"
+      },
+      {
+        "name" : "Continental GT",
+        "price" : 350000,
+        "imageUrl": "assets/images/bikes/continental.jpg",
+        "availableColors" : ["Red", "Silver","Black"],
+        "cardColor": "#7f4f24"
+      },
+      {
+        "name" : "Himalayan",
+        "price" : 300000,
+        "imageUrl": "assets/images/bikes/himalayan.jpg",
+        "availableColors" : ["Military Green", "Roadster Silver"],
+        "cardColor":"#e5e5e5"
+      }
+]
